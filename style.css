@@ -1,0 +1,7 @@
+.lorem-ipsum {
+    width: 200px;
+    border-style: dashed;
+    border-color: red;
+    font-size: 20px;
+    word-break: break-all;
+}
